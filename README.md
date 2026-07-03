@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Vaani0702/Practice/tree/master/0724-find-pivot-index) |
+| [1652-defuse-the-bomb](https://github.com/Vaani0702/Practice/tree/master/1652-defuse-the-bomb) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -21,4 +22,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vaani0702/Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1652-defuse-the-bomb](https://github.com/Vaani0702/Practice/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
