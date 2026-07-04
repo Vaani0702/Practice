@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Vaani0702/Practice/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Vaani0702/Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaani0702/Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Vaani0702/Practice/tree/master/0643-maximum-average-subarray-i) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Vaani0702/Practice/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Vaani0702/Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaani0702/Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Vaani0702/Practice/tree/master/0724-find-pivot-index) |
