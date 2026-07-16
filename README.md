@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Vaani0702/Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Vaani0702/Practice/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Vaani0702/Practice/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Vaani0702/Practice/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaani0702/Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vaani0702/Practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Vaani0702/Practice/tree/master/0219-contains-duplicate-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vaani0702/Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vaani0702/Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Vaani0702/Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Vaani0702/Practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Vaani0702/Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Vaani0702/Practice/tree/master/0242-valid-anagram) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Vaani0702/Practice/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Vaani0702/Practice/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Vaani0702/Practice/tree/master/0008-string-to-integer-atoi) |
+| [0049-group-anagrams](https://github.com/Vaani0702/Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Vaani0702/Practice/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vaani0702/Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Vaani0702/Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Vaani0702/Practice/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Vaani0702/Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Vaani0702/Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vaani0702/Practice/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
