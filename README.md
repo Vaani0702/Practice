@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vaani0702/Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Vaani0702/Practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Vaani0702/Practice/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Vaani0702/Practice/tree/master/0242-valid-anagram) |
 | [0523-continuous-subarray-sum](https://github.com/Vaani0702/Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaani0702/Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vaani0702/Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Vaani0702/Practice/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Vaani0702/Practice/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Vaani0702/Practice/tree/master/0008-string-to-integer-atoi) |
+| [0242-valid-anagram](https://github.com/Vaani0702/Practice/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vaani0702/Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Vaani0702/Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Vaani0702/Practice/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Vaani0702/Practice/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Vaani0702/Practice/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
