@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Vaani0702/Practice/tree/master/0724-find-pivot-index) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vaani0702/Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Vaani0702/Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Vaani0702/Practice/tree/master/1512-number-of-good-pairs) |
 | [1652-defuse-the-bomb](https://github.com/Vaani0702/Practice/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/Vaani0702/Practice/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vaani0702/Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Vaani0702/Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaani0702/Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vaani0702/Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1512-number-of-good-pairs](https://github.com/Vaani0702/Practice/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Vaani0702/Practice/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Vaani0702/Practice/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/Vaani0702/Practice/tree/master/0523-continuous-subarray-sum) |
+| [1512-number-of-good-pairs](https://github.com/Vaani0702/Practice/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vaani0702/Practice/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/Vaani0702/Practice/tree/master/1512-number-of-good-pairs) |
 ## Simulation
 |  |
 | ------- |
