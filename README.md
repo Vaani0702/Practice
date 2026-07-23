@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Vaani0702/Practice/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Vaani0702/Practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Vaani0702/Practice/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Vaani0702/Practice/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaani0702/Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vaani0702/Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vaani0702/Practice/tree/master/0189-rotate-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaani0702/Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vaani0702/Practice/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Vaani0702/Practice/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Vaani0702/Practice/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaani0702/Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Vaani0702/Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vaani0702/Practice/tree/master/0283-move-zeroes) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Vaani0702/Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Vaani0702/Practice/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Vaani0702/Practice/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Vaani0702/Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vaani0702/Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vaani0702/Practice/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaani0702/Practice/tree/master/0977-squares-of-a-sorted-array) |
