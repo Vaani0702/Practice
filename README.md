@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Vaani0702/Practice/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Vaani0702/Practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Vaani0702/Practice/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Vaani0702/Practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Vaani0702/Practice/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaani0702/Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vaani0702/Practice/tree/master/0169-majority-element) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vaani0702/Practice/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Vaani0702/Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Vaani0702/Practice/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/Vaani0702/Practice/tree/master/0523-continuous-subarray-sum) |
 | [1512-number-of-good-pairs](https://github.com/Vaani0702/Practice/tree/master/1512-number-of-good-pairs) |
