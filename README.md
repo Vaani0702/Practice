@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vaani0702/Practice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Vaani0702/Practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Vaani0702/Practice/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Vaani0702/Practice/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaani0702/Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vaani0702/Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vaani0702/Practice/tree/master/0189-rotate-array) |
@@ -168,5 +169,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Vaani0702/Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Vaani0702/Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
