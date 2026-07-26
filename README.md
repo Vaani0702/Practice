@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vaani0702/Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vaani0702/Practice/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Vaani0702/Practice/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Vaani0702/Practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Vaani0702/Practice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Vaani0702/Practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Vaani0702/Practice/tree/master/0088-merge-sorted-array) |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Vaani0702/Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Vaani0702/Practice/tree/master/0268-missing-number) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Vaani0702/Practice/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
