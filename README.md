@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vaani0702/Practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Vaani0702/Practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Vaani0702/Practice/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Vaani0702/Practice/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Vaani0702/Practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Vaani0702/Practice/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Vaani0702/Practice/tree/master/0136-single-number) |
@@ -176,4 +177,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Vaani0702/Practice/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Vaani0702/Practice/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
