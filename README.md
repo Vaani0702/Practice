@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vaani0702/Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vaani0702/Practice/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Vaani0702/Practice/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaani0702/Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Vaani0702/Practice/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Vaani0702/Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaani0702/Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Vaani0702/Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Vaani0702/Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vaani0702/Practice/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaani0702/Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Vaani0702/Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaani0702/Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vaani0702/Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
