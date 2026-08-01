@@ -16,7 +16,7 @@ class Solution {
                 }
 
                 visited[ch] = true;
-                max = Math.max(max, right - left + 1);
+                max = Math.max(max, right - left +1);
             }
         }
 
