@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Vaani0702/Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Vaani0702/Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vaani0702/Practice/tree/master/0268-missing-number) |
+| [0382-linked-list-random-node](https://github.com/Vaani0702/Practice/tree/master/0382-linked-list-random-node) |
 | [0523-continuous-subarray-sum](https://github.com/Vaani0702/Practice/tree/master/0523-continuous-subarray-sum) |
 | [1512-number-of-good-pairs](https://github.com/Vaani0702/Practice/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Vaani0702/Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vaani0702/Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vaani0702/Practice/tree/master/0237-delete-node-in-a-linked-list) |
+| [0382-linked-list-random-node](https://github.com/Vaani0702/Practice/tree/master/0382-linked-list-random-node) |
 ## Recursion
 |  |
 | ------- |
@@ -197,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vaani0702/Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vaani0702/Practice/tree/master/0142-linked-list-cycle-ii) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Vaani0702/Practice/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Vaani0702/Practice/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
