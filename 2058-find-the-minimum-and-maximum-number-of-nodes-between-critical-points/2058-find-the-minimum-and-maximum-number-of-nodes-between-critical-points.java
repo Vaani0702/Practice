@@ -13,38 +13,30 @@ class Solution {
         ListNode prev = head;
         ListNode curr = head.next;
 
-        int position = 2;
-        int firstCritical = -1;
-        int lastCritical = -1;
-        int minDistance = 100000;
+        int fcp = -1;
+        int lcp =-1;
+        int pos = 2;
+        int mindist = 100000;
 
-        while (curr.next != null) {
-
+        while(curr.next != null){
             ListNode next = curr.next;
-
-            if ((curr.val > prev.val && curr.val > next.val) ||
-                (curr.val < prev.val && curr.val < next.val)) {
-
-                if (firstCritical == -1) {
-                    firstCritical = position;
-                } else {
-                    minDistance = Math.min(minDistance, position - lastCritical);
+            if((curr.val>prev.val && curr.val>next.val)||(curr.val<prev.val && curr.val<next.val)){
+                if(fcp==-1){
+                    fcp = pos;
                 }
-
-                lastCritical = position;
+                else{
+                    mindist= Math.min(mindist,pos-lcp);
+                }
+                lcp= pos;
             }
-
-            prev = curr;
-            curr = next;
-            position++;
+            prev=curr;
+            curr=next;
+            pos++;
         }
-
-        if (firstCritical == -1 || firstCritical == lastCritical) {
-            return new int[]{-1, -1};
+        if(fcp==-1||lcp==fcp){
+            return new int[]{-1,-1};
         }
-
-        int maxDistance = lastCritical - firstCritical;
-
-        return new int[]{minDistance, maxDistance};
+        int maxdist = lcp-fcp;
+        return new int[]{mindist,maxdist};
     }
 }
