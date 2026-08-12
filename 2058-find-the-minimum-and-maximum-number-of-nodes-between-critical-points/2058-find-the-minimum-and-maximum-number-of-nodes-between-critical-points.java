@@ -10,43 +10,41 @@
  */
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
-        int firstCPI = -1;
-        int prevCPI = -1;
-        int currentIndex = 1;
-
-        ListNode cur = head.next;
         ListNode prev = head;
+        ListNode curr = head.next;
 
-        int res[] = new int[2];
-        res[0] = Integer.MAX_VALUE;
+        int position = 2;
+        int firstCritical = -1;
+        int lastCritical = -1;
+        int minDistance = Integer.MAX_VALUE;
 
-        while (cur.next != null) {
-            ListNode nextNode = cur.next;
+        while (curr.next != null) {
 
-            if ((cur.val < nextNode.val && cur.val < prev.val) ||
-                (cur.val > nextNode.val && cur.val > prev.val)) {
+            ListNode next = curr.next;
 
-                if (prevCPI == -1) {
-                    firstCPI = currentIndex;
-                    prevCPI = currentIndex;
+            if ((curr.val > prev.val && curr.val > next.val) ||
+                (curr.val < prev.val && curr.val < next.val)) {
+
+                if (firstCritical == -1) {
+                    firstCritical = position;
                 } else {
-                    res[0] = Math.min(res[0], currentIndex - prevCPI);
-                    prevCPI = currentIndex;
+                    minDistance = Math.min(minDistance, position - lastCritical);
                 }
+
+                lastCritical = position;
             }
 
-            prev = cur;
-            cur = nextNode;
-            currentIndex++;
+            prev = curr;
+            curr = next;
+            position++;
         }
 
-        if (firstCPI != -1 && res[0] != Integer.MAX_VALUE) {
-            res[1] = prevCPI - firstCPI;
-        } else {
-            res[0] = -1;
-            res[1] = -1;
+        if (firstCritical == -1 || firstCritical == lastCritical) {
+            return new int[]{-1, -1};
         }
 
-        return res;
+        int maxDistance = lastCritical - firstCritical;
+
+        return new int[]{minDistance, maxDistance};
     }
 }
