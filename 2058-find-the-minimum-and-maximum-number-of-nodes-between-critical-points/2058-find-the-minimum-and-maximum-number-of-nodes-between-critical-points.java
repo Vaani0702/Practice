@@ -16,7 +16,7 @@ class Solution {
         int position = 2;
         int firstCritical = -1;
         int lastCritical = -1;
-        int minDistance = Integer.MAX_VALUE;
+        int minDistance = 100000;
 
         while (curr.next != null) {
 
