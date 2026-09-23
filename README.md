@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Vaani0702/Practice/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Vaani0702/Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaani0702/Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/Vaani0702/Practice/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Vaani0702/Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Vaani0702/Practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Vaani0702/Practice/tree/master/0724-find-pivot-index) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Vaani0702/Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vaani0702/Practice/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Vaani0702/Practice/tree/master/0382-linked-list-random-node) |
+| [0622-design-circular-queue](https://github.com/Vaani0702/Practice/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Vaani0702/Practice/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Vaani0702/Practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vaani0702/Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -246,11 +248,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Vaani0702/Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Vaani0702/Practice/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Vaani0702/Practice/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Vaani0702/Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Vaani0702/Practice/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Vaani0702/Practice/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
