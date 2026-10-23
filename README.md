@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vaani0702/Practice/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Vaani0702/Practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Vaani0702/Practice/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Vaani0702/Practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Vaani0702/Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Vaani0702/Practice/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Vaani0702/Practice/tree/master/0933-number-of-recent-calls) |
