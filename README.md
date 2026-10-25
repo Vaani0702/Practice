@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Vaani0702/Practice/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Vaani0702/Practice/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Vaani0702/Practice/tree/master/0013-roman-to-integer) |
+| [0032-longest-valid-parentheses](https://github.com/Vaani0702/Practice/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Vaani0702/Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Vaani0702/Practice/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vaani0702/Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -131,10 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vaani0702/Practice/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Vaani0702/Practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vaani0702/Practice/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Vaani0702/Practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vaani0702/Practice/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Vaani0702/Practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Vaani0702/Practice/tree/master/0232-implement-queue-using-stacks) |
@@ -274,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vaani0702/Practice/tree/master/0102-binary-tree-level-order-traversal) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Vaani0702/Practice/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
