@@ -299,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Vaani0702/Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vaani0702/Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vaani0702/Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
