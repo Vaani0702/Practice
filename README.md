@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vaani0702/Practice/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/Vaani0702/Practice/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Vaani0702/Practice/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Vaani0702/Practice/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/Vaani0702/Practice/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vaani0702/Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Vaani0702/Practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vaani0702/Practice/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Vaani0702/Practice/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/Vaani0702/Practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Vaani0702/Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Vaani0702/Practice/tree/master/0496-next-greater-element-i) |
