@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Vaani0702/Practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Vaani0702/Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vaani0702/Practice/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Vaani0702/Practice/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/Vaani0702/Practice/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaani0702/Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Vaani0702/Practice/tree/master/0485-max-consecutive-ones) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vaani0702/Practice/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Vaani0702/Practice/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Vaani0702/Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaani0702/Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Vaani0702/Practice/tree/master/0724-find-pivot-index) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Vaani0702/Practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Vaani0702/Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Vaani0702/Practice/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/Vaani0702/Practice/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Vaani0702/Practice/tree/master/0933-number-of-recent-calls) |
 ## Queue
