@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Vaani0702/Practice/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vaani0702/Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/Vaani0702/Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Vaani0702/Practice/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Vaani0702/Practice/tree/master/0704-binary-search) |
 ## Sorting
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vaani0702/Practice/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/Vaani0702/Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Vaani0702/Practice/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Vaani0702/Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vaani0702/Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vaani0702/Practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Vaani0702/Practice/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Vaani0702/Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vaani0702/Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vaani0702/Practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Vaani0702/Practice/tree/master/0222-count-complete-tree-nodes) |
 ## Bracket Sequences
 |  |
 | ------- |
