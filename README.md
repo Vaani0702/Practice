@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vaani0702/Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vaani0702/Practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Vaani0702/Practice/tree/master/0222-count-complete-tree-nodes) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Vaani0702/Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Vaani0702/Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vaani0702/Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vaani0702/Practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Vaani0702/Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vaani0702/Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vaani0702/Practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Vaani0702/Practice/tree/master/0222-count-complete-tree-nodes) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Vaani0702/Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Vaani0702/Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Vaani0702/Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vaani0702/Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Vaani0702/Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Manacher
 |  |
 | ------- |
