@@ -1,28 +1,39 @@
 class MinStack {
-    private List<int[]> st;
+    private int[] stackArray;
+    private int top;
+    private final int MAX_SIZE = 30005;
 
     public MinStack() {
-        st = new ArrayList<>();
+        stackArray = new int[MAX_SIZE];
+        top = -1;
     }
     
-    public void push(int val) {
-        int[] top = st.isEmpty() ? new int[]{val, val} : st.get(st.size() - 1);
-        int min_val = top[1];
-        if (min_val > val) {
-            min_val = val;
+    public void push(int value) {
+        if (top >= MAX_SIZE - 1) {
+            return;
         }
-        st.add(new int[]{val, min_val});        
+        top++;
+        stackArray[top] = value;
     }
     
     public void pop() {
-        st.remove(st.size() - 1);
+        if (top == -1) {
+            return;
+        }
+        top--;
     }
     
     public int top() {
-        return st.isEmpty() ? -1 : st.get(st.size() - 1)[0];
+        return stackArray[top];
     }
     
     public int getMin() {
-        return st.isEmpty() ? -1 : st.get(st.size() - 1)[1];
+        int min = stackArray[0];
+        for (int i = 1; i <= top; i++) {
+            if (stackArray[i] < min) {
+                min = stackArray[i];
+            }
+        }
+        return min;
     }
 }
